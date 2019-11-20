@@ -8,7 +8,7 @@ Roteiro de apresentação
 
 *Explicando o que é o git
 
-*Video Ilustrativo
+*Video Ilustrativo (Entrevista com Jeffrey Middleton)
 
 *Instalando o git
 
@@ -40,6 +40,15 @@ git Commands
 git diff
 
 //git diff "commit 01" "commit 02"
+=====================================================
+
+git Commands
+====================================================
+//Volta a versão de um commit especifico
+
+git checkout
+
+//git checkout "commit"
 =====================================================
 
 *Como o git vê os arquivos em um repositorio
