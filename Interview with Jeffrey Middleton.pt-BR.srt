@@ -1,0 +1,92 @@
+﻿1
+00:00:00,480 --> 00:00:01,510
+Meu nome é Jeffrey Middleton.
+
+2
+00:00:01,510 --> 00:00:04,310
+Trabalho no Google Search, em ranking da Web, que é como
+
+3
+00:00:04,310 --> 00:00:07,478
+decidimos quais resultados de uma consulta mostramos em qual ordem.
+
+4
+00:00:07,478 --> 00:00:10,590
+Uso o Git desde que comecei em programação, há
+
+5
+00:00:10,590 --> 00:00:11,459
+cerca de seis anos.
+
+6
+00:00:11,460 --> 00:00:14,090
+Para mim, a maior utilidade do controle de versão é quando estou trabalhando em
+
+7
+00:00:14,090 --> 00:00:15,250
+algo grande sozinho.
+
+8
+00:00:16,490 --> 00:00:17,770
+Se for uma tarefa pequena,
+
+9
+00:00:17,770 --> 00:00:20,870
+dá para não usar nenhum controle de versão.
+
+10
+00:00:20,870 --> 00:00:23,420
+Posso só fazer a tarefinha e pronto.
+
+11
+00:00:23,420 --> 00:00:25,750
+Mas, se for um projeto maior, é bom poder dividi-lo
+
+12
+00:00:25,750 --> 00:00:29,810
+em partes, pensar no trabalho como uma série de etapas e
+
+13
+00:00:29,810 --> 00:00:33,070
+corrigir todos os erros indo e voltando.
+
+14
+00:00:33,070 --> 00:00:37,120
+E deixar tudo funcionando direito antes
+
+15
+00:00:37,120 --> 00:00:38,710
+de mostrar para outras pessoas.
+
+16
+00:00:38,710 --> 00:00:41,430
+A curva de aprendizado com o controle de versão varia muito dependendo
+
+17
+00:00:41,430 --> 00:00:42,240
+do que se usa.
+
+18
+00:00:42,240 --> 00:00:46,570
+Acho que alguns sistemas com menos recursos são fáceis de sacar,
+
+19
+00:00:46,570 --> 00:00:49,550
+mas, com sistemas mais complexos, como o Git,
+
+20
+00:00:49,550 --> 00:00:51,220
+a curva de aprendizado é íngreme, mas
+
+21
+00:00:51,220 --> 00:00:54,890
+vale a pena porque é tão eficiente,
+
+22
+00:00:54,890 --> 00:00:58,260
+e depois de aprender você pode fazer tanta coisa.
+
+23
+00:00:58,260 --> 00:01:00,980
+E são coisas que não dava para fazer sem aprender tanto.
+
