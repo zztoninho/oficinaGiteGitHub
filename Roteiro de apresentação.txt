@@ -12,14 +12,45 @@ Roteiro de apresentação
 
 *Instalando o git
 
+git Commands
+====================================================
+$ git config --global user.email "seu@email.com"
+$ git config --global user.name "Seu Nome"
+
+
+//Estabelece a Configuração inicial do git, inserindo email e nome do usuario.
+=====================================================
 
 git Commands
 ====================================================
-//Clona um repositorio externo ou interno
+git init
 
+$ git init <directory>
+
+//Inicia um repositorio git, pode ser feito indicando a pasta, se for sem o mesmo vai gerar o git na pasta atual.
+=====================================================
+
+*Os três estados de um repositorio
+
+
+*O cliclo de vida de alterações de arquivo
+
+git Commands
+====================================================
+git add
+
+$ git add <directory>or<file>
+
+//Adiciona um diretorio a area staged, pode ser feito tbm diretamente a um arquivo.
+=====================================================
+
+git Commands
+====================================================
 git clone
 
-//git clone <repository>[<directory>]
+$ git clone <repository>[<directory>]
+
+//Clona um repositorio externo ou interno, pode ser Local, HTTPS ou SSH
 =====================================================
 
 
@@ -50,5 +81,7 @@ git checkout
 
 //git checkout "commit"
 =====================================================
+
+
 
 *Como o git vê os arquivos em um repositorio
