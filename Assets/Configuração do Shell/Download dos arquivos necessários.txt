@@ -1,0 +1,24 @@
+Download dos arquivos necessários
+*Salve este arquivo no diretório raiz com o nome git-completion.bash.
+
+Salve este arquivo no diretório raiz com o nome git-prompt.sh.
+Baixe o bash_profile_course da seção Downloadables.
+Se você já tiver um arquivo no diretório raiz denominado .bash_profile, copie o conteúdo do bash_profile_course e cole-o na parte inferior do .bash_profile. Caso contrário, mova o bash_profile_course para o diretório raiz e renomeie-o para .bash_profile. Se você usa Linux, talvez seja necessário nomear esse arquivo como .bashrc em vez de .bash_profile. (Se tiver curiosidade de saber mais sobre como os prompts bash funcionam, consulte esta página.)
+Certifique-se de iniciar o editor no terminal
+Se você usar o Sublime, poderá fazer isso adicionando a linha a seguir ao seu .bash_profile (talvez seja necessário alterar o caminho se o Sublime estiver instalado em um local diferente):
+
+alias subl="/Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl"
+Como configurar o Git
+Execute os comandos de configuração do Git a seguir. O primeiro precisará ser modificado se você estiver usando outro editor de texto que não seja o Sublime, ou se o Sublime estiver instalado em outro local. Consulte esta página para obter o comando correto para outros dois editores de texto populares. Para qualquer outro editor, você precisará inserir o comando usado para iniciar o editor em questão no terminal.
+
+git config --global core.editor "'/Applications/Sublime Text 2.app/Contents/SharedSupport/bin/subl' -n -w"
+git config --global push.default upstream
+git config --global merge.conflictstyle diff3
+
+(Em vez do primeiro comando, talvez seja necessário usar o git config --global core.editor "subl -n -w" mais simples, conforme mostrado no vídeo, mas para muitos alunos, isso não funcionou.)
+
+Reinicie o terminal
+Você precisará fechar e reabrir o terminal para que todas as suas alterações sejam aplicadas.
+
+Material de apoio
+ bash_profile_course

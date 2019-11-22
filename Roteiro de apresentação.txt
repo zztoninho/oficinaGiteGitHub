@@ -1,0 +1,54 @@
+Roteiro de apresentação
+
+*Apresentação
+
+*Diferença entre git e GitHub (só de leve)
+
+*Historio do git
+
+*Explicando o que é o git
+
+*Video Ilustrativo (Entrevista com Jeffrey Middleton)
+
+*Instalando o git
+
+
+git Commands
+====================================================
+//Clona um repositorio externo ou interno
+
+git clone
+
+//git clone <repository>[<directory>]
+=====================================================
+
+
+git Commands
+====================================================
+//Mostra uma listagens de commits incluindo seus id's
+
+git log
+
+//git log
+=====================================================
+
+
+git Commands
+====================================================
+//Compara e mostra as diferenças entre dois arquivos
+
+git diff
+
+//git diff "commit 01" "commit 02"
+=====================================================
+
+git Commands
+====================================================
+//Volta a versão de um commit especifico
+
+git checkout
+
+//git checkout "commit"
+=====================================================
+
+*Como o git vê os arquivos em um repositorio
