@@ -23,6 +23,17 @@ $ git config --global user.name "Seu Nome"
 
 git Commands
 ====================================================
+$ git config --global credential.helper cache
+# Set git to use the credential memory cache
+
+$ git config --global credential.helper 'cache --timeout=3600'
+# Set the cache to timeout after 1 hour (setting is in seconds)
+
+//Ativa e Altera o armazenamento de cache das credenciais do GitHub via HTTPS
+=====================================================
+
+git Commands
+====================================================
 git init
 
 $ git init <directory>
@@ -56,11 +67,11 @@ $ git clone <repository>[<directory>]
 
 git Commands
 ====================================================
-//Mostra uma listagens de commits incluindo seus id's
 
-git log
 
-//git log
+$ git log
+
+//Mostra um historico listagens de commits incluindo seus id's
 =====================================================
 
 
@@ -82,6 +93,13 @@ git checkout
 //git checkout "commit"
 =====================================================
 
+git Commands
+====================================================
+//Volta a versão de um commit especifico
 
+git checkout
 
-*Como o git vê os arquivos em um repositorio
+//git checkout "commit"
+=====================================================
+
+teste
